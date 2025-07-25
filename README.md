@@ -17,7 +17,7 @@ This repository documents the hands-on projects, scripts, and tools I’m using 
 
 ---
 
-## 🛠️ Current Tools & Scripts
+## Current Tools & Scripts
 
 | File               | Description                                           |
 |--------------------|-------------------------------------------------------|
@@ -34,13 +34,3 @@ To install and start Nginx using the included script:
 ```bash
 chmod +x install_nginx.sh
 ./install_nginx.sh
-
-## Coming Soon
-
-devops-roadmap-2025/
-├── install_nginx.sh
-├── ansible/
-├── docker/
-├── jenkins/
-├── kubernetes/
-└── terraform/
